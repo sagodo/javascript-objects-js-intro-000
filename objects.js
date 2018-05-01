@@ -1,6 +1,6 @@
-var playlist 
-  "Michael Jackson": "Thriller",
-  "Gucci Mane": "Money Make ya Handsome"
+var playlist
+  "Michael Jackson" "Thriller"
+  "Gucci Mane" "Money Make ya Handsome"
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
